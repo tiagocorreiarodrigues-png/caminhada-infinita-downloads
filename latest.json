@@ -1,9 +1,9 @@
 {
-  "version": "1.4.5",
-  "version_code": 18,
+  "version": "1.4.6",
+  "version_code": 19,
   "apk_url": "https://github.com/tiagocorreiarodrigues-png/caminhada-infinita-downloads/releases/latest/download/CaminhadaInfinita.apk",
-  "release_url": "https://github.com/tiagocorreiarodrigues-png/caminhada-infinita-downloads/releases/tag/v1.4.5-18",
+  "release_url": "https://github.com/tiagocorreiarodrigues-png/caminhada-infinita-downloads/releases/tag/v1.4.6-19",
   "package_name": "com.techtu.caminhadainfinita",
-  "sha256": "f033b0757c48d0ac23d8d5a29c30401dee09b618e426c571470d30d0fc33a7aa",
-  "apk_size": 66283413
+  "sha256": "09427b1f2eb22ae54b5f01714481336c22e719cfbea1655aea4130b111824efa",
+  "apk_size": 66298461
 }
