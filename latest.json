@@ -1,7 +1,7 @@
 {
-  "version": "1.4",
-  "version_code": 13,
+  "version": "1.3",
+  "version_code": 12,
   "apk_url": "https://github.com/tiagocorreiarodrigues-png/caminhada-infinita-downloads/releases/latest/download/CaminhadaInfinita.apk",
-  "release_url": "https://github.com/tiagocorreiarodrigues-png/caminhada-infinita-downloads/releases/tag/v1.4-13",
+  "release_url": "https://github.com/tiagocorreiarodrigues-png/caminhada-infinita-downloads/releases/tag/v1.3-12",
   "package_name": "com.techtu.caminhadainfinita"
 }
